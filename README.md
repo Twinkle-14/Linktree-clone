@@ -1,34 +1,35 @@
-🌿 Linktree Clone — BitTree
+# 🌿 BitTree — Link Hub App
 
-A modern and responsive Linktree-style link hub built with Next.js 14, React 18, and Tailwind CSS.
-BitTree lets users create personalized bio-link pages with a clean UI, smooth animations, and full offline support.
+A modern, responsive, and privacy-friendly link-in-bio app inspired by platforms like Linktree.  
+Built with **Next.js 14**, **React 18**, and **Tailwind CSS**, BitTree lets users create personalized bio-link pages with a clean UI, smooth animations, and offline support.
 
-✨ Features
+---
 
-Multi-page design — Templates, Marketplace, Discover, Pricing, Learn
+## ✨ Features
 
-Fully responsive & accessible layout
+- 🌐 **Multi-page design** — Templates, Marketplace, Discover, Pricing, Learn  
+- 📱 **Fully responsive** & accessible layout  
+- ⚡ **Offline mode** using local JSON API (no database required)  
+- 🧩 **Built with Next.js App Router** + Tailwind CSS  
+- 🚀 **Ready for Vercel deployment**
 
-Works offline (local JSON API, no MongoDB)
+---
 
-Built with Next.js App Router + TailwindCSS
+## 🧰 Tech Stack
 
-Ready for Vercel deployment
+- **Next.js 14**  
+- **React 18**  
+- **Tailwind CSS**  
+- **React Toastify**
 
-🧩 Tech Stack
+---
 
-Next.js 14
+## ⚙️ Setup
 
-React 18
-
-Tailwind CSS
-
-React Toastify
-
-⚙️ Setup
+```bash
 # Clone the repo
-git clone https://github.com/Twinkle-14/Linktree-clone.git
-cd Linktree-clone
+git clone https://github.com/Twinkle-14/BitTree.git
+cd BitTree
 
 # Install dependencies
 npm install
@@ -36,22 +37,3 @@ npm install
 # Run locally
 npm run dev
 
-
-Then open 👉 http://localhost:3000
-
-🚀 Future Plans
-
-Add user profiles & authentication
-
-Connect to MongoDB / Supabase
-
-Add themes & analytics
-
-👩‍💻 Author
-
-Twinkle Surti
-🔗 LinkedIn
- | 💻 GitHub
-
-⭐ If you like this project, please give it a star on GitHub
-!
